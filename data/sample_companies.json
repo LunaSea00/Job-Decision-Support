@@ -1,0 +1,62 @@
+[
+  {
+    "corporate_id": "1000000000001",
+    "legal_name": "株式会社ABC",
+    "address": "東京都千代田区1-1-1",
+    "prefecture": "東京都",
+    "website": "https://abc.co.jp",
+    "industry": "IT",
+    "is_listed": false,
+    "aliases": ["ABC", "ABC TOKYO"]
+  },
+  {
+    "corporate_id": "1000000000002",
+    "legal_name": "株式会社ABC",
+    "address": "大阪府大阪市1-1-1",
+    "prefecture": "大阪府",
+    "website": "https://abc-osaka.jp",
+    "industry": "製造",
+    "is_listed": false,
+    "aliases": ["ABC OSAKA"]
+  },
+  {
+    "corporate_id": "1000000000003",
+    "legal_name": "ABC株式会社",
+    "address": "福岡県福岡市2-2-2",
+    "prefecture": "福岡県",
+    "website": null,
+    "industry": "物流",
+    "is_listed": false,
+    "aliases": ["ABC FUKUOKA"]
+  },
+  {
+    "corporate_id": "1000000000004",
+    "legal_name": "株式会社TechNova",
+    "address": "東京都渋谷区3-3-3",
+    "prefecture": "東京都",
+    "website": "https://technova.example.com",
+    "industry": "SaaS",
+    "is_listed": true,
+    "aliases": ["TECHNOVA", "TN"]
+  },
+  {
+    "corporate_id": "1000000000005",
+    "legal_name": "（株）GreenWorks",
+    "address": "北海道札幌市4-4-4",
+    "prefecture": "北海道",
+    "website": "https://greenworks.example.jp",
+    "industry": "環境",
+    "is_listed": false,
+    "aliases": ["GREENWORKS"]
+  },
+  {
+    "corporate_id": "1000000000006",
+    "legal_name": "株式会社BlueShift",
+    "address": "愛知県名古屋市5-5-5",
+    "prefecture": "愛知県",
+    "website": "https://blueshift.example.jp",
+    "industry": "IT",
+    "is_listed": false,
+    "aliases": ["BLUESHIFT", "BLUE SHIFT"]
+  }
+]
